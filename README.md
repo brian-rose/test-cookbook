@@ -5,7 +5,7 @@
 [![nightly-build](https://github.com/brian-rose/test-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/brian-rose/test-cookbook/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/brian-rose/test-cookbook/main?labpath=notebooks)
 
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
+This Cookbook originated from a Cookiecutter template, just testing that out.
 
 ## Motivation
 
@@ -13,7 +13,7 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ## Authors
 
-[Brian E. J. Rose](@brian-rose), [Second Author](@second-author),, etc. _Acknowledge primary content authors here_
+[Brian E. J. Rose](@brian-rose)
 
 ### Contributors
 
